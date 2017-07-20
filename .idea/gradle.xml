@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/p0061layouts" />
             <option value="$PROJECT_DIR$/p0072layoutprop" />
             <option value="$PROJECT_DIR$/p0081veiwbyid" />
+            <option value="$PROJECT_DIR$/p0091onclickbutton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
